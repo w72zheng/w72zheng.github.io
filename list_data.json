@@ -23,8 +23,8 @@
 			"Cuisine": "Japanese",
 			"Location": "Soho",
 			"Price": "$$"
-		}
-		{,
+		},
+		{
 			"Name": "Jua",
 			"Cuisine": "Korean",
 			"Location": "Flatiron",
