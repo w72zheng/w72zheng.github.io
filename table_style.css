@@ -1,6 +1,7 @@
 table {
   width: 75%;
   font-size: large;
+  justify-content: center;
 }
 
 td {
