@@ -304,6 +304,8 @@ svg {
 table {
   caption-side: bottom;
   border-collapse: collapse;
+  justify-content: center;
+  align-items: center;
 }
 
 caption {
@@ -1970,6 +1972,8 @@ progress {
   color: #212529;
   vertical-align: top;
   border-color: #dee2e6;
+  justify-content: center;
+  align-items: center;
 }
 .table > :not(caption) > * > * {
   padding: 0.5rem 0.5rem;
